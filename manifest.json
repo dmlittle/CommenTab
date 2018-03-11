@@ -16,6 +16,7 @@
     "contextMenus",
     "activeTab",
     "http://*/*",
-    "https://*/*"
+    "https://*/*",
+    "storage"
   ]
 }
